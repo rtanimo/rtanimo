@@ -7,9 +7,9 @@ Software Engineer
 I am an aspiring Software Engineer committed to life-long learning.
 
 * 🌍  I'm based in Keaau, Hawaii
-* 🖥️  See my portfolio at [MyPortfolio](http://(s)github.com/rtanimo/personal_website)
+* 🖥️  See my portfolio at [MyPortfolio](http://github.com/rtanimo/personal_website)
 * ✉️  You can contact me at [roi.tanimoto@gmail.com](mailto:roi.tanimoto@gmail.com)
-* 🚀  I'm currently working on [Hawaii Isle Archery Club Website](http://(s)github.com/rtanimo/HIAC-Website)
+* 🚀  I'm currently working on [Hawaii Isle Archery Club Website](http://github.com/rtanimo/HIAC-Website)
 * 🧠  I'm learning React.js and Next.js
 * 🤝  I'm open to collaborating on projects
 * ⚡  I shoot competitive archery and a outdoorsman
