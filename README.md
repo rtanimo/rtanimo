@@ -21,7 +21,7 @@ src="https://img.shields.io/twitch/status/abunaiiii?logo=twitchsx&style=for-the-
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,angular,cpp,cs,mysql,sql,react,py,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,angular,cpp,cs,mysql,react,py,nodejs&theme=dark" />
   </a>
 </p>
 
